@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_rogov.Page1"
+             Title="Кредитный калькулятор"
+             Padding="30,30,30,30">
+
+    <StackLayout Spacing="20">
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Сумма кредита:" FontSize="17" Margin="0,10,0,0" WidthRequest="200"/>
+            <Entry x:Name="SumOfCredit" WidthRequest="170" Keyboard="Numeric" TextChanged="CalcAllData"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Срок (месяцев):" FontSize="17" Margin="0,10,0,0" WidthRequest="200"/>
+            <Entry x:Name ="DateMonth" WidthRequest="170" Keyboard="Numeric" TextChanged="CalcAllData"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Вид платежа:" FontSize="17" Margin="0,10,0,0" WidthRequest="200"/>
+            <Picker x:Name="TypeOfPayment" WidthRequest="170" SelectedIndexChanged="TypeOfPayment_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Аннуитетный</x:String>
+                    <x:String>Дифференцированный</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+
+        <StackLayout>
+            <Label Text="Процентная ставка:" FontSize="17"/>
+        </StackLayout>
+
+        <StackLayout>
+            <Slider x:Name="ProcentsSlider" Minimum="0" Maximum="100" ValueChanged="Slider_ValueChanged"/>
+            <Label  x:Name="ProcentsRate" Text="0%" FontSize="17" HorizontalOptions="Center"/>
+        </StackLayout>
+
+        <StackLayout Padding="10" Spacing="30">
+            <Label x:Name="AllSum" Text="Общая сумма:" FontSize="15"/>
+            <Label x:Name="OverPayment" Text="Переплата:" FontSize="15"/>
+            <Label x:Name="MonthPayment"  Text="Ежемесячный платеж:" FontSize="15" />
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|c:\\users\\drunchik\\desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|solutionrelative:zd4_rogov\\zd4_rogov\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|c:\\users\\drunchik\\desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|solutionrelative:zd4_rogov\\zd4_rogov\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|c:\\users\\drunchik\\desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|solutionrelative:zd4_rogov\\zd4_rogov\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|c:\\users\\drunchik\\desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|solutionrelative:zd4_rogov\\zd4_rogov\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|c:\\users\\drunchik\\desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|solutionrelative:zd4_rogov\\zd4_rogov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|c:\\users\\drunchik\\desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0EC23ECA-B020-4154-9CF9-FD74B9EC1003}|zd4_rogov\\zd4_rogov\\zd4_rogov.csproj|solutionrelative:zd4_rogov\\zd4_rogov\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zd4_rogov\\zd4_rogov\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\MainPage.xaml",
+              "RelativeToolTip": "zd4_rogov\\zd4_rogov\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T01:31:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_rogov\\zd4_rogov\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Page1.xaml.cs",
+              "RelativeToolTip": "zd4_rogov\\zd4_rogov\\Page1.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:15:50.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Page2.xaml",
+              "RelativeDocumentMoniker": "zd4_rogov\\zd4_rogov\\Page2.xaml",
+              "ToolTip": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Page2.xaml",
+              "RelativeToolTip": "zd4_rogov\\zd4_rogov\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T17:15:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Welcome.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_rogov\\zd4_rogov\\Welcome.xaml.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Welcome.xaml.cs",
+              "RelativeToolTip": "zd4_rogov\\zd4_rogov\\Welcome.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:26:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\styles.css",
+              "RelativeDocumentMoniker": "zd4_rogov\\zd4_rogov\\styles.css",
+              "ToolTip": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\styles.css",
+              "RelativeToolTip": "zd4_rogov\\zd4_rogov\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-13T10:05:57.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_rogov\\zd4_rogov\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\Desktop\\zd4_rogov\\zd4_rogov\\zd4_rogov\\Page2.xaml.cs",
+              "RelativeToolTip": "zd4_rogov\\zd4_rogov\\Page2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:12:32.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
